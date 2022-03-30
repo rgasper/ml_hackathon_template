@@ -1,0 +1,10 @@
+[user]
+	email = 14928724+rgasper@users.noreply.github.com
+	name = Raymond Gasper
+	signingKey = 05130636
+[commit]
+	gpgsign = false
+[gpg]
+	program = /usr/local/bin/gpg
+[credential]
+	helper = "!f() { /home/eis-user/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/node /tmp/vscode-remote-containers-4839e5ecfdb2acfbc2009e494c3d608084ce5007.js $*; }; f"
